@@ -88,6 +88,9 @@ the computer can be run manually, or by cloning this repository and using the in
     or just run `./05-download-oxygen-rom.sh`. This will download the ROM and upload it to the
     phone's SD Card.
 
+	UPDATE (02/01/2013): since http://oxygen.im is not available anymore, I've added the Oxygen ROM
+	archive to this repository.
+
 	If you want, you can download and use the CyanogenMod ROM:
 
     ```Shell
