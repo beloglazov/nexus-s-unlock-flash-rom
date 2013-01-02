@@ -110,14 +110,14 @@ the computer can be run manually, or by cloning this repository and using the in
     with the apps can be downloaded and pushed to the phone by running:
 
     ```Shell
-    wget http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip
-    adb push gapps-gb-20110828-signed.zip /sdcard
+	wget http://goo.im/gapps/gapps-gb-20110828-newtalk-signed.zip
+	adb push gapps-gb-20110828-newtalk-signed.zip /sdcard
     ```
 
     or just running `./06-download-gapps.sh`
 
 15. Flash the package with the apps using CWM's menu: install from sdcard -> choose zip from sdcard
-    -> choose the downloaded gapps-gb-20110828-signed.zip file.
+    -> choose the downloaded gapps-gb-20110828-newtalk-signed.zip file.
 16. Now choose "reboot system now" to reboot the phone.
 17. Enjoy a new rooted custom ROM on your phone!
 
